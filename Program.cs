@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 using System;
-
+//Programa While
 namespace Repeticao
 {
     class Program
