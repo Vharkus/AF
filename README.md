@@ -1,40 +1,41 @@
-Leitor de Números.
-Versão: 1.0
-Status do Projeto: heavy_check_mark Concluído
-Tópicos
-small_blue_diamond Descrição do projeto
+# Leitor de Números.
+## Versão: 1.0 
+## Status do Projeto: ✔️ Concluído
 
-small_blue_diamond Funcionalidades
+## Tópicos
+🔹 [Descrição do projeto](https://github.com/Vharkus/AF#descri%C3%A7%C3%A3o-do-projeto)
 
-small_blue_diamond Pré-requisitos
+🔹 [Funcionalidades](https://github.com/Vharkus/AF#funcionalidades-%EF%B8%8F)
 
-small_blue_diamond Como rodar a aplicação
+🔹 [Pré-requisitos](https://github.com/Vharkus/AF#pr%C3%A9-requisitos-%EF%B8%8F)
 
-small_blue_diamond Linguagens, dependências e libs utilizadas
+🔹 [Como rodar a aplicação](https://github.com/Vharkus/AF#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-small_blue_diamond Desenvolvedores/Contribuintes
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/AF#linguagens-dependencias-e-libs-utilizadas-)
 
-small_blue_diamond Informações Extras
+🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/AF#desenvolvedorescontribuintes)
 
-Descrição do projeto
+🔹 [Informações Extras](https://github.com/Vharkus/AF#copyright-%EF%B8%8F-2023---leitor-de-n%C3%BAmeros)
+
+## Descrição do projeto
 O código tem o intuito de ler o número digitado pelo usuário.
+## Funcionalidades ⚙️
+✔️ Funcionalidade 1
+Ler o número digitado.
 
-Funcionalidades gear
-heavy_check_mark Funcionalidade 1 Ler o número digitado.
-
-Pré-requisitos warning
+## Pré-requisitos ⚠️    
 Um compilador de código que possa rodar ele, por exemplo: Programiz.
 
-Como rodar a aplicação
+## Como rodar a aplicação 
 Depois de conseguir um compilador, tudo o que precisa fazer é seguir as instruções do próprioo código.
 
-Linguagens, dependencias e libs utilizadas books
-C#
+## Linguagens, dependencias e libs utilizadas 📚
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-Desenvolvedores/Contribuintes:
+## Desenvolvedores/Contribuintes:
 Rafael Shinji Nakano
 
-Licença
+## Licença
 The MIT License (MIT)
 
-Copyright copyright 2023 - Leitor de Números.
+## Copyright ©️ 2023 - Leitor de Números.
