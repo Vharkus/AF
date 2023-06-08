@@ -1,28 +1,29 @@
-# Leitor de Números.
+# Contador Básico.
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/Vharkus/AF#descri%C3%A7%C3%A3o-do-projeto)
+🔹 [Descrição do projeto](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 [Funcionalidades](https://github.com/Vharkus/AF#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#funcionalidades-%EF%B8%8F)
 
-🔹 [Pré-requisitos](https://github.com/Vharkus/AF#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/Vharkus/AF#como-rodar-a-aplica%C3%A7%C3%A3o)
+🔹 [Como rodar a aplicação](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/AF#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/AF#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](https://github.com/Vharkus/AF#copyright-%EF%B8%8F-2023---leitor-de-n%C3%BAmeros)
+🔹 [Informações Extras](https://github.com/Vharkus/AF/tree/Prototipo_Fun%C3%A7%C3%A3o#copyright-%EF%B8%8F-2023---leitor-de-n%C3%BAmeros)
 
 ## Descrição do projeto
-O código tem o intuito de ler o número digitado pelo usuário.
+Código feito para realizar as operações básicas da matemática e mostrar seus resultados.
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
-Ler o número digitado.
-
+Ler dois números.
+✔️ Funcionalidade 2
+Realizar as 5 operações básicas e mostrar seus resultados.
 ## Pré-requisitos ⚠️    
 Um compilador de código que possa rodar ele, por exemplo: Programiz.
 
@@ -38,4 +39,4 @@ Rafael Shinji Nakano
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ 2023 - Leitor de Números.
+## Copyright ©️ 2023 - Contador Básico.
