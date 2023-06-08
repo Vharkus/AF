@@ -3,19 +3,19 @@
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto](https://github.com/Vharkus/Triangulo_funcoes#descri%C3%A7%C3%A3o-do-projeto)
+🔹 [Descrição do projeto](https://github.com/Vharkus/AF#descri%C3%A7%C3%A3o-do-projeto)
 
-🔹 [Funcionalidades](https://github.com/Vharkus/Triangulo_funcoes#funcionalidades-%EF%B8%8F)
+🔹 [Funcionalidades](https://github.com/Vharkus/AF#funcionalidades-%EF%B8%8F)
 
-🔹 [Pré-requisitos](https://github.com/Vharkus/Triangulo_funcoes#pr%C3%A9-requisitos-%EF%B8%8F)
+🔹 [Pré-requisitos](https://github.com/Vharkus/AF#pr%C3%A9-requisitos-%EF%B8%8F)
 
-🔹 [Como rodar a aplicação](https://github.com/Vharkus/Triangulo_funcoes#como-rodar-a-aplica%C3%A7%C3%A3o)
+🔹 [Como rodar a aplicação](https://github.com/Vharkus/AF#como-rodar-a-aplica%C3%A7%C3%A3o)
 
-🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/Triangulo_funcoes#linguagens-dependencias-e-libs-utilizadas-)
+🔹 [Linguagens, dependências e libs utilizadas](https://github.com/Vharkus/AF#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/Triangulo_funcoes#desenvolvedorescontribuintes)
+🔹 [Desenvolvedores/Contribuintes](https://github.com/Vharkus/AF#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](https://github.com/Vharkus/Triangulo_funcoes#licen%C3%A7a)
+🔹 [Informações Extras](https://github.com/Vharkus/AF#copyright-%EF%B8%8F-2023---leitor-de-n%C3%BAmeros)
 
 ## Descrição do projeto
 O código tem o intuito de ler o número digitado pelo usuário.
